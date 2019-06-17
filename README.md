@@ -1,2 +1,4 @@
 # Git_Course
-Foe Elzero
+For Elzero
+
+## Project Notes
